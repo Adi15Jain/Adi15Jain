@@ -11,36 +11,6 @@ AI-first full-stack developer focused on building **LLM-powered products**, **RA
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Exsyt — Examination Analyst
-LLM-powered platform that generates professional exam question papers from structured data and past papers.
-
-**Highlights**
-- JSON → structured question paper generation
-- Clean frontend architecture
-- LLM integration with controlled output
-
-**Tech:** React, TypeScript, Node.js, MongoDB, LLMs  
-<!-- Optional GIF -->
-<!-- ![Exsyt Demo](https://raw.githubusercontent.com/Adi15Jain/exsyt/main/demo.gif) -->
-
----
-
-### 🔹 Sentysis — Twitter Sentiment Analysis
-End-to-end NLP pipeline for sentiment classification and trend visualization.
-
-**Tech:** Python, scikit-learn, NLTK, NLP preprocessing, data visualization
-
----
-
-### 🔹 PneumoAI — Pneumonia Detection
-CNN-based system to detect pneumonia from chest X-ray images.
-
-**Tech:** PyTorch, FastAPI, React, CNNs
-
----
-
 ## 🧠 Core Tech Stack
 
 ### Languages
@@ -72,12 +42,6 @@ CNN-based system to detect pneumonia from chest X-ray images.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
 
----
-
-## 📌 Currently Working On
-- Advanced RAG pipelines with better retrieval and ranking
-- LLM-based document intelligence systems
-- Improving developer productivity tools
 
 ---
 
