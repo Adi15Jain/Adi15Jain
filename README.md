@@ -1,70 +1,101 @@
-Hi there, I’m Adi!
-Building AI-first products and performant web apps. Passionate about LLMs, RAG systems, and crafting clean, scalable UIs.
+# Hi, I’m Adi Jain 👋
 
-Focus areas: AI/LLMs, Full‑stack (React/Next.js + FastAPI/Node), ML, DevTools.
+AI-first full-stack developer focused on building **LLM-powered products**, **RAG systems**, and **scalable web applications** with clean architecture and strong developer experience.
 
-Currently leveling up projects around AI assistants, document analysis, and developer productivity.
+---
 
-🔧 Tech Stack
-Languages: Python, JavaScript (ES6+), TypeScript, C++
+## 🔍 What I Do
+- Design and build **LLM & RAG-based systems** (document analysis, assistants, automation)
+- Develop **full-stack web apps** using React/Next.js with FastAPI or Node.js
+- Focus on **performance, maintainability, and clean system design**
 
-Frontend: React, Next.js, TailwindCSS, Three.js
+---
 
-Backend: FastAPI, Flask, Node.js, Express.js
+## 🚀 Featured Projects
 
-Databases: PostgreSQL, MySQL, SQLite, MongoDB
+### 🔹 Exsyt — Examination Analyst
+LLM-powered platform that generates professional exam question papers from structured data and past papers.
 
-ML/AI: scikit‑learn, Pandas, NumPy, NLTK, Hugging Face Transformers, LangChain, RAG
+**Highlights**
+- JSON → structured question paper generation
+- Clean frontend architecture
+- LLM integration with controlled output
 
-Tools: Git/GitHub, Vercel, Render, GitHub Actions, Postman, VS Code
+**Tech:** React, TypeScript, Node.js, MongoDB, LLMs  
+<!-- Optional GIF -->
+<!-- ![Exsyt Demo](https://raw.githubusercontent.com/Adi15Jain/exsyt/main/demo.gif) -->
 
-🚀 Featured Projects
-Exsyt — LLM‑powered tool to generate professional question papers from JSON, focused on clean frontend architecture and organized code structure.
-Tech: React, TypeScript, Node/Express, MongoDB, LLM integration. [projects.exyst]
+---
 
-Sentysis — Twitter sentiment analysis with NLP + deep learning, including preprocessing, classification, and trend visualization.
-Tech: Python, scikit‑learn/NLTK, visualization.
+### 🔹 Sentysis — Twitter Sentiment Analysis
+End-to-end NLP pipeline for sentiment classification and trend visualization.
 
-PneumoAI — Detects pneumonia from chest X‑rays using CNNs with a FastAPI backend and React/Vite frontend.
-Tech: Python, FastAPI, React.
+**Tech:** Python, scikit-learn, NLTK, NLP preprocessing, data visualization
 
-Document Analyzer — LLM‑assisted PDF/document analysis tools with structured extraction and Q&A.
-Tech: Python, Transformers, PDF tooling.
+---
 
-AI Tools & Codehelper — Chat‑style AI assistants focused on code help and streamlined UX for developers.
-Tech: LLMs, frontend UX, API integrations.
+### 🔹 PneumoAI — Pneumonia Detection
+CNN-based system to detect pneumonia from chest X-ray images.
 
-📈 What I’m working on
-Building reliable RAG pipelines and evaluation loops for retrieval quality.
+**Tech:** PyTorch, FastAPI, React, CNNs
 
-Improving developer UX in AI chat tools (context management, tool use, and clean UIs).
+---
 
-Exploring alternatives to Mongoose for simpler backend data layers when appropriate.
+### 🔹 Document Analyzer
+LLM-assisted PDF/document analysis with structured extraction and Q&A.
 
-🧪 Highlights
-Secure, efficient APIs for course data using Express.js + MongoDB.
+**Tech:** Python, Transformers, LangChain, PDF tooling
 
-Strong TypeScript focus with attention to type safety and ergonomics.
+---
 
-Firebase experience for auth and user management.
+## 🧠 Core Tech Stack
 
-🛠️ Setup & Deploy
-Frontend: Next.js/React on Vercel.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
 
-Backend: FastAPI/Express on Render or custom servers.
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss)
 
-CI/CD: GitHub Actions with env management and automated tests
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express)
+
+### ML / AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface)
+![LangChain](https://img.shields.io/badge/LangChain-000000)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
+
+---
+
+## 📌 Currently Working On
+- Advanced RAG pipelines with better retrieval and ranking
+- LLM-based document intelligence systems
+- Improving developer productivity tools
+
+---
+
+## 🔗 Links
+- 🌐 Portfolio: https://adijain-portfolio.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/adi-jain-73334724b
+
+---
+
+## 📊 GitHub Stats (Optional)
+<!-- Enable only if you are actively contributing -->
 <!--
-**Adi15Jain/Adi15Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi15Jain&show_icons=true&hide_border=true)
 -->
