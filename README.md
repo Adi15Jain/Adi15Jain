@@ -41,13 +41,6 @@ CNN-based system to detect pneumonia from chest X-ray images.
 
 ---
 
-### 🔹 Document Analyzer
-LLM-assisted PDF/document analysis with structured extraction and Q&A.
-
-**Tech:** Python, Transformers, LangChain, PDF tooling
-
----
-
 ## 🧠 Core Tech Stack
 
 ### Languages
@@ -94,8 +87,8 @@ LLM-assisted PDF/document analysis with structured extraction and Q&A.
 
 ---
 
-## 📊 GitHub Stats (Optional)
+## 📊 GitHub Stats
 <!-- Enable only if you are actively contributing -->
-<!--
+
 ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi15Jain&show_icons=true&hide_border=true)
--->
+
