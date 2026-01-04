@@ -90,5 +90,6 @@ CNN-based system to detect pneumonia from chest X-ray images.
 ## 📊 GitHub Stats
 <!-- Enable only if you are actively contributing -->
 
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adi15Jain&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adi15Jain&show_icons=true&hide_border=true&count_private=false)
+
 
