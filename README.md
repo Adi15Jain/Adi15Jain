@@ -1,4 +1,4 @@
-# Hi, I’m Adi Jain 👋
+# Hello 👋
 
 AI-first full-stack developer focused on building **LLM-powered products**, **RAG systems**, and **scalable web applications** with clean architecture and strong developer experience.
 
