@@ -4,13 +4,6 @@ AI-first full-stack developer focused on building **LLM-powered products**, **RA
 
 ---
 
-## 🔍 What I Do
-- Design and build **LLM & RAG-based systems** (document analysis, assistants, automation)
-- Develop **full-stack web apps** using React/Next.js with FastAPI or Node.js
-- Focus on **performance, maintainability, and clean system design**
-
----
-
 ## 🧠 Core Tech Stack
 
 ### Languages
