@@ -41,11 +41,3 @@ AI-first full-stack developer focused on building **LLM-powered products**, **RA
 ## 🔗 Links
 - 🌐 Portfolio: https://adijain-portfolio.vercel.app
 - 💼 LinkedIn: https://linkedin.com/in/adi-jain-73334724b
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adi15Jain&show_icons=true&hide_border=true&count_private=false)
-
-
