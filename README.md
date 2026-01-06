@@ -45,7 +45,6 @@ AI-first full-stack developer focused on building **LLM-powered products**, **RA
 ---
 
 ## 📊 GitHub Stats
-<!-- Enable only if you are actively contributing -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adi15Jain&show_icons=true&hide_border=true&count_private=false)
 
