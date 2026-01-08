@@ -30,7 +30,6 @@ AI-first full-stack developer focused on building **LLM-powered products**, **RA
 
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
