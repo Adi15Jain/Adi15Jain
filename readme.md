@@ -8,11 +8,11 @@
 
 ---
 
-### 🤖 About Me
+## 🤖 About Me
 
 I am an **AI-first full-stack developer** dedicated to bridging the gap between complex Machine Learning models and production-ready applications. I specialize in building **RAG systems** and agentic workflows that solve real-world problems.
 
-### 🏗️ My Architectural Approach
+## 🏗️ My Architectural Approach
 
 | Research                   |  ➔  | Development                |  ➔  | Deployment                 |
 | :------------------------- | :-: | :------------------------- | :-: | :------------------------- |
@@ -21,7 +21,7 @@ I am an **AI-first full-stack developer** dedicated to bridging the gap between 
 
 ---
 
-### 🛠️ Core Tech Stack
+## 🛠️ Core Tech Stack
 
 | Category     | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                                                                          |
 | :----------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ I am an **AI-first full-stack developer** dedicated to bridging the gap between 
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adi15Jain&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=777" />
@@ -41,26 +41,36 @@ I am an **AI-first full-stack developer** dedicated to bridging the gap between 
 
 ---
 
-### 🧩 How I Think
+## 🧠 How I Think
 
-- ✅ **Clarity > Cleverness:** I write code for humans first, machines second.
-- 🏗️ **Scalable Simplicity:** I prefer modular architectures that grow without friction.
-- 🤝 **End-to-End Ownership:** From data ingestion to UI deployment.
+I follow a **"Clean-First"** engineering philosophy. I treat code as a liability—the less there is to achieve the goal, the better the product.
 
-graph LR
-Input((Raw Idea)) --> Filter{Simplicity?}
-Filter -- No --> Refactor[Reduce Complexity]
-Refactor --> Filter
-Filter -- Yes --> Build[Modular Architecture]
-Build --> Scalability[Horizontal Scaling]
-Scalability --> Impact((Production))
+### 🔄 The Decision Pipeline
 
-    style Filter fill:#f96,stroke:#333,stroke-width:2px
-    style Impact fill:#00ff00,stroke:#333,stroke-width:2px
+1. **Identify Problem** ➔ _What is the core user pain point?_
+2. **The Simplicity Filter** ➔ _Can this be solved without adding a new dependency?_
+3. **Modular Build** ➔ _Architect for clarity and horizontal scaling._
+4. **Productize** ➔ _Move from a Python script to a resilient, documented API._
 
 ---
 
-### 📬 Let's Connect
+## 🛠️ Tech Ecosystem
+
+### 🧪 Artificial Intelligence
+
+- **Orchestration:** `LangChain`, `CrewAI`, `LlamaIndex`
+- **Machine Learning:** `PyTorch`, `Scikit-learn`, `HuggingFace`
+- **Vector Infra:** `Pinecone`, `ChromaDB`, `Milvus`
+
+### ⚡ Full-Stack Production
+
+- **Frontend:** `Next.js 14`, `React`, `TailwindCSS`, `Framer Motion`
+- **Backend:** `FastAPI`, `Node.js`, `Express.js`
+- **Database:** `PostgreSQL`, `Redis`, `MongoDB`
+
+---
+
+## 📬 Let's Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/adi-jain-73334724b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adi Jain" height="30" width="40" /></a>
