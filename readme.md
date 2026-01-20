@@ -12,9 +12,12 @@
 
 I am an **AI-first full-stack developer** dedicated to bridging the gap between complex Machine Learning models and production-ready applications. I specialize in building **RAG systems** and agentic workflows that solve real-world problems.
 
-- 🔭 **Currently working on:** Advanced Agentic RAG frameworks.
-- 🧪 **Research Interests:** LLM Fine-tuning & Neural Architecture Search.
-- ⚡ **Philosophy:** Treat ML models as **products, not notebooks.**
+### 🏗️ My Architectural Approach
+
+| Research                   |  ➔  | Development                |  ➔  | Deployment                 |
+| :------------------------- | :-: | :------------------------- | :-: | :------------------------- |
+| **LLM & RAG Design**       |     | **Full-Stack Integration** |     | **Cloud Scalability**      |
+| _Fine-tuning & Vector DBs_ |     | _FastAPI & Next.js_        |     | _Docker & CI/CD Pipelines_ |
 
 ---
 
@@ -51,8 +54,9 @@ Refactor --> Filter
 Filter -- Yes --> Build[Modular Architecture]
 Build --> Scalability[Horizontal Scaling]
 Scalability --> Impact((Production))
-style Filter fill:#f96,stroke:#333,stroke-width:2px
-style Impact fill:#00ff00,stroke:#333,stroke-width:2px
+
+    style Filter fill:#f96,stroke:#333,stroke-width:2px
+    style Impact fill:#00ff00,stroke:#333,stroke-width:2px
 
 ---
 
