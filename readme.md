@@ -54,22 +54,6 @@ I follow a **"Clean-First"** engineering philosophy. I treat code as a liability
 
 ---
 
-## 🛠️ Tech Ecosystem
-
-### 🧪 Artificial Intelligence
-
-- **Orchestration:** `LangChain`, `CrewAI`, `LlamaIndex`
-- **Machine Learning:** `PyTorch`, `Scikit-learn`, `HuggingFace`
-- **Vector Infra:** `Pinecone`, `ChromaDB`, `Milvus`
-
-### ⚡ Full-Stack Production
-
-- **Frontend:** `Next.js 14`, `React`, `TailwindCSS`, `Framer Motion`
-- **Backend:** `FastAPI`, `Node.js`, `Express.js`
-- **Database:** `PostgreSQL`, `Redis`, `MongoDB`
-
----
-
 ## 📬 Let's Connect
 
 <p align="left">
