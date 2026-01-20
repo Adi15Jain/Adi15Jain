@@ -44,16 +44,15 @@ I am an **AI-first full-stack developer** dedicated to bridging the gap between 
 - 🏗️ **Scalable Simplicity:** I prefer modular architectures that grow without friction.
 - 🤝 **End-to-End Ownership:** From data ingestion to UI deployment.
 
-┌──────────────────────┐ ┌──────────────────────┐
-│ AI & ML │ │ Full-Stack │
-│ RAG, Agents, LLMs │◀────▶│ Next.js, FastAPI │
-└──────────┬───────────┘ └──────────┬───────────┘
-│ Engineering │
-└───────────────┬─────────────┘
-▼
-┌─────────────────────────┐
-│ Production AI Apps │
-└─────────────────────────┘
+graph LR
+Input((Raw Idea)) --> Filter{Simplicity?}
+Filter -- No --> Refactor[Reduce Complexity]
+Refactor --> Filter
+Filter -- Yes --> Build[Modular Architecture]
+Build --> Scalability[Horizontal Scaling]
+Scalability --> Impact((Production))
+style Filter fill:#f96,stroke:#333,stroke-width:2px
+style Impact fill:#00ff00,stroke:#333,stroke-width:2px
 
 ---
 
