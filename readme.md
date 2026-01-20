@@ -35,7 +35,7 @@ I am an **AI-first full-stack developer** dedicated to bridging the gap between 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adi15Jain&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=777" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adi15Jain&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi15Jain&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=777" />
 </p>
 
