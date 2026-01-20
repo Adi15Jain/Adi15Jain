@@ -5,8 +5,6 @@
 <!-- ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Adi15Jain)
  -->
 
-[![WakaTime](https://wakatime.com/badge/user/Adi15Jain.svg)](https://wakatime.com)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Building+LLM-powered+products;RAG+Systems+Specialist;Scalable+Full-Stack+Architect;ML+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
 </p>
