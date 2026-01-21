@@ -20,14 +20,13 @@ I am an **AI-first full-stack developer** dedicated to bridging the gap between 
 I follow a structured, three-phase pipeline to transform concepts into production-grade AI solutions.
 
 <p align="center">
-  <img src="https://i.imgur.com/G5gB5bC.png" width="40" alt="Research Icon">
-  <b>Research</b>
+  <b>🔬 Research</b>
   &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
   <img src="https://i.imgur.com/i3w1w8D.png" width="40" alt="Development Icon">
-  <b>Development</b>
+  <b>🛠️ Development</b>
   &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
   <img src="https://i.imgur.com/u0w3s8g.png" width="40" alt="Deployment Icon">
-  <b>Deployment</b>
+  <b>🚀 Deployment</b>
 </p>
 
 <p align="center">
