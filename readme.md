@@ -17,10 +17,10 @@ I am an **AI-first full-stack developer** dedicated to bridging the gap between 
 
 ## 🏗️ My Architectural Approach
 
-| Research                   |     | Development                |     | Deployment                 |
+| Research                   |  ➔  | Development                |  ➔  | Deployment                 |
 | :------------------------- | :-: | :------------------------- | :-: | :------------------------- |
 | **LLM & RAG Design**       |  ➔  | **Full-Stack Integration** |  ➔  | **Cloud Scalability**      |
-| _Fine-tuning & Vector DBs_ |     | _FastAPI & Next.js_        |     | _Docker & CI/CD Pipelines_ |
+| _Fine-tuning & Vector DBs_ |  ➔  | _FastAPI & Next.js_        |  ➔  | _Docker & CI/CD Pipelines_ |
 
 ---
 
