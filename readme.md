@@ -22,10 +22,8 @@ I follow a structured, three-phase pipeline to transform concepts into productio
 <p align="center">
   <b>🔬 Research</b>
   &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/i3w1w8D.png" width="40" alt="Development Icon">
   <b>🛠️ Development</b>
   &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
-  <img src="https://i.imgur.com/u0w3s8g.png" width="40" alt="Deployment Icon">
   <b>🚀 Deployment</b>
 </p>
 
