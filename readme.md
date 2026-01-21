@@ -2,7 +2,7 @@
 
 ![Adi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adi15Jain&theme=react-dark&bg_color=0D1117&hide_border=true)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Adi15Jain)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Adi15Jain&align=center)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Building+LLM-powered+products;RAG+Systems+Specialist;Scalable+Full-Stack+Architect;ML+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
