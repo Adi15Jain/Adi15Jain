@@ -4,13 +4,13 @@
 
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@Adi15Jain)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Building+LLM-powered+products;RAG+Systems+Specialist;Scalable+Full-Stack+Architect;ML+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🤖 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Building+LLM-powered+products;RAG+Systems+Specialist;Scalable+Full-Stack+Architect;ML+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
+</p>
 
 I am an **AI-first full-stack developer** dedicated to bridging the gap between complex Machine Learning models and production-ready applications. I specialize in building **RAG systems** and agentic workflows that solve real-world problems.
 
