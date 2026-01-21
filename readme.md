@@ -15,12 +15,36 @@
 
 I am an **AI-first full-stack developer** dedicated to bridging the gap between complex Machine Learning models and production-ready applications. I specialize in building **RAG systems** and agentic workflows that solve real-world problems.
 
-## 🏗️ My Architectural Approach
+### 🏗️ My Architectural Approach
 
-| Research                   |  ➔  | Development                |  ➔  | Deployment                 |
-| :------------------------- | :-: | :------------------------- | :-: | :------------------------- |
-| **LLM & RAG Design**       |  ➔  | **Full-Stack Integration** |  ➔  | **Cloud Scalability**      |
-| _Fine-tuning & Vector DBs_ |  ➔  | _FastAPI & Next.js_        |  ➔  | _Docker & CI/CD Pipelines_ |
+I follow a structured, three-phase pipeline to transform concepts into production-grade AI solutions.
+
+<p align="center">
+  <img src="https://i.imgur.com/G5gB5bC.png" width="40" alt="Research Icon">
+  <b>Research</b>
+  &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/i3w1w8D.png" width="40" alt="Development Icon">
+  <b>Development</b>
+  &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
+  <img src="https://i.imgur.com/u0w3s8g.png" width="40" alt="Deployment Icon">
+  <b>Deployment</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM_RAG_Design-1890ff?style=for-the-badge&logo=idea&logoColor=white" alt="LLM & RAG Design">
+  <img src="https://img.shields.io/badge/Fine_Tuning-0078d4?style=for-the-badge&logo=azure&logoColor=white" alt="Fine-tuning">
+  <img src="https://img.shields.io/badge/Vector_DBs-4fc08d?style=for-the-badge&logo=supabase&logoColor=white" alt="Vector DBs">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full_Stack_Integration-52c41a?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud_Scalability-fa8c16?style=for-the-badge&logo=aws&logoColor=white" alt="Cloud">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/CI_CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
+</p>
 
 ---
 
@@ -31,7 +55,7 @@ I am an **AI-first full-stack developer** dedicated to bridging the gap between 
 | **AI / ML**  | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
 | **Backend**  | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)                                                                                                           |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)                                                                                                       |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)                                                                                                                                  |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)                                                                                                                                                                                                              |
 
 ---
 
