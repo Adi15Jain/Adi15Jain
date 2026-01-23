@@ -61,21 +61,18 @@ I follow a **"Clean-First"** engineering philosophy. I treat code as a liability
 
 <p align="center">
   <a href="https://linkedin.com/in/adi-jain-73334724b" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn"
-         height="30"
-         width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
          alt="Email"
          height="30"
          width="40" />
   </a>
 
   <a href="https://adijain-portfolio.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg"
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
          alt="Portfolio"
          height="30"
          width="40" />
