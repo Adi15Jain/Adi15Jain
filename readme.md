@@ -67,17 +67,17 @@ I follow a **"Clean-First"** engineering philosophy. I treat code as a liability
          width="40" />
   </a>
 
-  <a href="https://gmail.com/adi1510jain@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"
          alt="Email"
          height="30"
          width="40" />
   </a>
 
   <a href="https://adijain-portfolio.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg"
-        alt="Portfolio"
-        height="30"
-        width="40" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg"
+         alt="Portfolio"
+         height="30"
+         width="40" />
   </a>
 </p>
