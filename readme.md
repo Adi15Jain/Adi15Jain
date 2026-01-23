@@ -59,7 +59,25 @@ I follow a **"Clean-First"** engineering philosophy. I treat code as a liability
 
 ## 📬 Let's Connect
 
-<p align="left">
-<a href="https://linkedin.com/in/adi-jain-73334724b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adi Jain" height="30" width="40" /></a>
-<a href="https://adijain-portfolio.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/adi-jain-73334724b" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
+  </a>
+
+  <a href="https://gmail.com/adi1510jain@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+         alt="Email"
+         height="30"
+         width="40" />
+  </a>
+
+  <a href="https://adijain-portfolio.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg"
+        alt="Portfolio"
+        height="30"
+        width="40" />
+  </a>
 </p>
