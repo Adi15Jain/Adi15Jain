@@ -66,15 +66,11 @@ I follow a **"Clean-First"** engineering philosophy. I treat code as a liability
 
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-         alt="Email"
-         height="30"
-         width="40" />
+         alt="Email" />
   </a>
 
   <a href="https://adijain-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
-         alt="Portfolio"
-         height="30"
-         width="40" />
+         alt="Portfolio"/>
   </a>
 </p>
