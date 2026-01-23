@@ -6,8 +6,6 @@
 
 ---
 
-## 🤖 About Me
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Building+LLM-powered+products;RAG+Systems+Specialist;Scalable+Full-Stack+Architect;ML+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
 </p>
@@ -22,22 +20,6 @@ I follow a structured, three-phase pipeline to transform concepts into productio
   <b>🛠️ Development</b>
   &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
   <b>🚀 Deployment</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM_RAG_Design-1890ff?style=for-the-badge&logo=idea&logoColor=white" alt="LLM & RAG Design">
-  <img src="https://img.shields.io/badge/Fine_Tuning-0078d4?style=for-the-badge&logo=azure&logoColor=white" alt="Fine-tuning">
-  <img src="https://img.shields.io/badge/Vector_DBs-4fc08d?style=for-the-badge&logo=supabase&logoColor=white" alt="Vector DBs">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack_Integration-52c41a?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud_Scalability-fa8c16?style=for-the-badge&logo=aws&logoColor=white" alt="Cloud">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/CI_CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
 </p>
 
 ---
