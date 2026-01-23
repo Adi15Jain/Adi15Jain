@@ -64,7 +64,7 @@ I follow a **"Clean-First"** engineering philosophy. I treat code as a liability
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:adi1510jain@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
          alt="Email" />
   </a>
