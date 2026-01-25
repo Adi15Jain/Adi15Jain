@@ -53,7 +53,7 @@ I follow a structured, three-phase pipeline to transform concepts into productio
 
   <a href="mailto:adi1510jain@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-         alt="Email" />
+         alt="Mail" />
   </a>
 
   <a href="https://adijain-portfolio.vercel.app" target="_blank">
