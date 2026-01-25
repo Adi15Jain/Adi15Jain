@@ -44,19 +44,6 @@ I follow a structured, three-phase pipeline to transform concepts into productio
 
 ---
 
-## 🧠 How I Think
-
-I follow a **"Clean-First"** engineering philosophy. I treat code as a liability—the less there is to achieve the goal, the better the product.
-
-### 🔄 The Decision Pipeline
-
-1. **Identify Problem** ➔ _What is the core user pain point?_
-2. **The Simplicity Filter** ➔ _Can this be solved without adding a new dependency?_
-3. **Modular Build** ➔ _Architect for clarity and horizontal scaling._
-4. **Productize** ➔ _Move from a Python script to a resilient, documented API._
-
----
-
 ## 📬 Let's Connect
 
 <p align="center">
