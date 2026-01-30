@@ -4,16 +4,6 @@
 
 ![WakaTime Stats](https://profile-stats-sigma.vercel.app/api/hello?v=2)
 
-<div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
-    <div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
-      <p align="center">
-      <img src="https://kv.jobleap4u.com/xiaomingx-count" style="width: 0; height: 0; border: none; display: block;" alt="" />
-      <img  src="https://github-readme-stats.vercel.app/api?username=Adi15Jain&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Adi15Jain&theme=transparent&layout=donut&langs_count=3&border_radius=8&show_icons=true&locale=en" alt="XiaomingX's Most Used Languages" />
-    </p>
-    </div>
-</div>
-
 ---
 
 <p align="center">
