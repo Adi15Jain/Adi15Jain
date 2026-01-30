@@ -2,7 +2,7 @@
 
 ![Adi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adi15Jain&theme=react-dark&bg_color=0D1117&hide_border=true)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Adi15Jain&layout=compact&theme=tokyonight&hide_border=true)
+![WakaTime Stats](https://profile-stats-sigma.vercel.app/api/hello)
 
 ---
 
