@@ -39,7 +39,7 @@ I follow a structured, three-phase pipeline to transform concepts into productio
 
 <p align="center">
   <img height="180em" src="https://profile-stats-sigma.vercel.app/api/github?v=2" />
-  <img height="180em" src="https://profile-stats-sigma.vercel.app/api/github-langs" />
+  <img height="180em" src="https://profile-stats-sigma.vercel.app/api/hello?v=3" />
 </p>
 
 ---
