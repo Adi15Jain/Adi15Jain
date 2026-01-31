@@ -2,7 +2,11 @@
 
 ![Adi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adi15Jain&theme=react-dark&bg_color=0D1117&hide_border=true)
 
-![WakaTime Stats](https://profile-stats-sigma.vercel.app/api/hello?v=3)
+<p align="center">
+  <img src="https://profile-stats-sigma.vercel.app/api/hello?v=3" />
+
+  <img height="180em" src="https://profile-stats-sigma.vercel.app/api/github?v=2" />
+</p>
 
 ---
 
@@ -39,7 +43,6 @@ I follow a structured, three-phase pipeline to transform concepts into productio
 
 <p align="center">
   <img height="180em" src="https://profile-stats-sigma.vercel.app/api/github?v=2" />
-  <img height="180em" src="https://profile-stats-sigma.vercel.app/api/hello?v=3" />
 </p>
 
 ---
@@ -48,7 +51,7 @@ I follow a structured, three-phase pipeline to transform concepts into productio
 
 <p align="center">
   <a href="https://linkedin.com/in/adi-jain-73334724b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
   </a>
   <a href="mailto:adi1510jain@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
