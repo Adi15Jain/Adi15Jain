@@ -60,4 +60,9 @@ I follow a structured, three-phase pipeline to transform concepts into productio
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
          alt="Portfolio"/>
   </a>
+
+  <a href="https://x.com/adijain_aj" target="_blank">
+    <img src="https://img.shields.io/badge/X/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"
+         alt="Twitter"/>
+  </a>
 </p>
