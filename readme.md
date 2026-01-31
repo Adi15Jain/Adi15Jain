@@ -12,9 +12,9 @@
   <img width="420" src="https://profile-stats-sigma.vercel.app/api/github?v=3" />
 </p>
 
----
+<!-- ---
 
-<!-- ### 🏗️ My Architectural Approach
+### 🏗️ My Architectural Approach
 
 I follow a structured, three-phase pipeline to transform concepts into production-grade AI solutions.
 
@@ -37,9 +37,9 @@ I follow a structured, three-phase pipeline to transform concepts into productio
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)                                                                                                       |
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)                                                                                                                                                                                                              |
 
----
+<!-- ---
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://profile-stats-sigma.vercel.app/api/github?v=2" />
