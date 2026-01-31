@@ -50,7 +50,6 @@ I follow a structured, three-phase pipeline to transform concepts into productio
   <a href="https://linkedin.com/in/adi-jain-73334724b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:adi1510jain@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
          alt="Mail" />
