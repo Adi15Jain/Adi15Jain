@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://profile-stats-sigma.vercel.app/api/hello?v=3" />
 
-  <img height="180em" src="https://profile-stats-sigma.vercel.app/api/github?v=2" />
+  <img src="https://profile-stats-sigma.vercel.app/api/github?v=2" />
 </p>
 
 ---
