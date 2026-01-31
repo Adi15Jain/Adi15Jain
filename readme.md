@@ -3,7 +3,7 @@
 ![Adi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adi15Jain&theme=react-dark&bg_color=0D1117&hide_border=true)
 
 <p align="center">
-  <img width="420" src="https://profile-stats-sigma.vercel.app/api/hello?v=3" />
+  <img width="400" src="https://profile-stats-sigma.vercel.app/api/hello?v=3" />
   &nbsp;&nbsp;
   <img width="420" src="https://profile-stats-sigma.vercel.app/api/github?v=2" />
 </p>
