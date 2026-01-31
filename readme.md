@@ -35,13 +35,12 @@ I follow a structured, three-phase pipeline to transform concepts into productio
 
 ---
 
-<!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://profile-stats-sigma.vercel.app/api/github" />
   <img height="180em" src="https://profile-stats-sigma.vercel.app/api/github-langs" />
-</p> -->
+</p>
 
 ---
 
