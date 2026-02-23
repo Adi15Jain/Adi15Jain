@@ -34,7 +34,7 @@ I follow a structured, three-phase pipeline to transform concepts into productio
 <br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,nodejs,python,nextjs,react,tailwind,postgres,redis" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,codepen,css,d3,express,fastapi,flask,git,github,html,java,js,latex,mysql,mongodb,nextjs,nodejs,notion,npm,opencv,postgres,postman,prisma,pytorch,react,sklearn,tailwind,tensorflow,threejs,ts,vercel,vite,vscode" alt="Tech Stack Core" />
   </a>
   <br>
   <!-- Supplemental Icons lacking native skillicons.dev support -->
