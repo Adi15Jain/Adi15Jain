@@ -32,35 +32,18 @@ I follow a structured, three-phase pipeline to transform concepts into productio
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Core+Tech+Stack;My+Arsenal+of+Tools" alt="Core Tech Stack Typing SVG" />
   <br><br>
 
-  <!-- AI / ML -->
-
-<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
-<a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" /></a>
-<a href="https://langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,nodejs,python,nextjs,react,tailwind,postgres,redis&perline=6" alt="Tech Stack Core" />
+  </a>
   <br>
-
-  <!-- Backend -->
-
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-
-  <br>
-
-  <!-- Frontend -->
-
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /></a>
-
-  <br>
-
-  <!-- Database -->
-
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
+  <!-- Supplemental Icons lacking native skillicons.dev support -->
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="46" height="46" alt="HuggingFace" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://langchain.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="46" height="46" alt="LangChain" />
+  </a>
 
 </div>
 
