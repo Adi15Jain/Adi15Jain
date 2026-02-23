@@ -30,22 +30,21 @@ I follow a structured, three-phase pipeline to transform concepts into productio
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Core+Tech+Stack;My+Arsenal+of+Tools" alt="Core Tech Stack Typing SVG" />
-  <br><br>
+</div>
+<br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,nodejs,python,nextjs,react,tailwind,postgres,redis&perline=6" alt="Tech Stack Core" />
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,nodejs,python,nextjs,react,tailwind,postgres,redis" />
   </a>
   <br>
   <!-- Supplemental Icons lacking native skillicons.dev support -->
   <a href="https://huggingface.co/" target="_blank">
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="46" height="46" alt="HuggingFace" />
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="HuggingFace" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://langchain.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="46" height="46" alt="LangChain" />
+    <img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="48" height="48" alt="LangChain" />
   </a>
-
-</div>
 
 <!-- ---
 
