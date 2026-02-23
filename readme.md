@@ -37,15 +37,6 @@ I follow a structured, three-phase pipeline to transform concepts into productio
     <img src="https://skillicons.dev/icons?i=c,cpp,codepen,css,d3,express,fastapi,flask,git,github,html,java,js,latex,mysql,mongodb,nextjs,nodejs,notion,npm,opencv,postgres,postman,prisma,pytorch,react,sklearn,tailwind,tensorflow,threejs,ts,vercel,vite,vscode" alt="Tech Stack Core" />
   </a>
 
-  <!-- Supplemental Icons lacking native skillicons.dev support -->
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="HuggingFace" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://langchain.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="48" height="48" alt="LangChain" />
-  </a>
-
 <!-- ---
 
 ## 📊 GitHub Stats
@@ -60,20 +51,18 @@ I follow a structured, three-phase pipeline to transform concepts into productio
 
 <p align="center">
   <a href="https://linkedin.com/in/adi-jain-73334724b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:adi1510jain@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-         alt="Mail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Mail" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://adijain-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
-         alt="Portfolio"/>
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/adijain_aj" target="_blank">
-    <img src="https://img.shields.io/badge/X/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white"
-         alt="Twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
 </p>
