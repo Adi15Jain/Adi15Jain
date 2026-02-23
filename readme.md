@@ -50,7 +50,7 @@ I follow a structured, three-phase pipeline to transform concepts into productio
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/adi-jain-73334724b" target="_blank">
+  <a href="https://linkedin.com/in/adi-jain-73334724b" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -58,11 +58,11 @@ I follow a structured, three-phase pipeline to transform concepts into productio
     <img src="https://skillicons.dev/icons?i=gmail" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://adijain-portfolio.vercel.app" target="_blank">
+  <a href="https://adijain-portfolio.vercel.app" target="blank">
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/adijain_aj" target="_blank">
+  <a href="https://x.com/adijain_aj" target="blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
 </p>
