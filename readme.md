@@ -58,8 +58,8 @@ I follow a structured, three-phase pipeline to transform concepts into productio
     <img src="https://skillicons.dev/icons?i=gmail" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://adijain-portfolio.vercel.app" target="blank">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
+  <a href="https://adijainnext-portfolio.vercel.app" target="blank">
+    <img src="https://github.com/Adi15Jain/NextPortfolio/blob/main/public/images/fav.png" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/adijain_aj" target="blank">
