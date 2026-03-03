@@ -59,7 +59,7 @@ I follow a structured, three-phase pipeline to transform concepts into productio
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://adijainnext-portfolio.vercel.app" target="blank">
-    <img src="https://github.com/Adi15Jain/NextPortfolio/blob/main/public/images/fav.png" alt="Portfolio" />
+    <img width="48" src="https://raw.githubusercontent.com/Adi15Jain/NextPortfolio/main/public/images/fav.png" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/adijain_aj" target="blank">
