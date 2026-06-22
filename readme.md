@@ -14,23 +14,13 @@
 
 > **Full-stack developer and AI engineer from New Delhi.** I build LLM-powered products end-to-end — from RAG pipelines and multi-agent systems to the FastAPI backends and React frontends that serve them.
 
-- 🔭 **Building** — AI products: multi-agent interview prep, RAG exam intelligence, and an AI runtime SDK
-- 🧠 **Focused on** — LLMs, RAG, agentic systems, and classical/deep ML
-- ⚡ **Strong at** — taking an idea from blank repo → deployed product
-- 💬 **Ask me about** — Next.js, FastAPI, RAG, multi-agent design, or ML pipelines
-- 📫 **Reach me** — [Portfolio](https://adijain.click) · [LinkedIn](https://linkedin.com/in/adi-jain-73334724b) · [Email](mailto:adi1510jain@gmail.com)
-
 ---
 
 <div align="center">
 
-<p>
-  <img width="420" src="https://profile-stats-sigma.vercel.app/api/hello?v=7" />
-  &nbsp;&nbsp;
-  <img width="420" src="https://profile-stats-sigma.vercel.app/api/github?v=6" />
-</p>
+<img width="860" src="https://profile-stats-sigma.vercel.app/api/stats?v=1" alt="Coding Activity & GitHub stats" />
 
-<img width="846" src="https://profile-stats-sigma.vercel.app/api/contributions?v=2" alt="Contribution Graph" />
+<img width="860" src="https://profile-stats-sigma.vercel.app/api/contributions?v=3" alt="Contribution Graph" />
 
 </div>
 
