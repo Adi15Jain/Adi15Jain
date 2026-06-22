@@ -28,28 +28,15 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,nextjs,nodejs,tailwind,threejs,prisma,fastapi,flask,postgres,docker,git,vercel,pytorch,sklearn" alt="languages" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=" alt="backend" />
 </p>
 
-**Frontend & Full-Stack**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,threejs,prisma" alt="frontend" />
-</p>
-
-**Backend, Data & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,docker,git,vercel" alt="backend" />
-</p>
-
-**AI / ML**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="ml" />
+  <img src="https://skillicons.dev/icons?i=" alt="ml" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/RAG-ChromaDB-FF6F61?style=for-the-badge" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge" alt="XGBoost" />
