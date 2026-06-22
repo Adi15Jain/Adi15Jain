@@ -20,7 +20,7 @@
 
 <img width="860" src="https://profile-stats-sigma.vercel.app/api/stats?v=1" alt="Coding Activity & GitHub stats" />
 
-<img width="860" src="https://profile-stats-sigma.vercel.app/api/contributions?v=4" alt="Contribution Graph" />
+<img width="860" src="https://profile-stats-sigma.vercel.app/api/contributions?v=5" alt="Contribution Graph" />
 
 </div>
 
