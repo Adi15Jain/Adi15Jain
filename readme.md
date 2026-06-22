@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,nextjs,nodejs,tailwind,threejs,prisma,fastapi,flask,postgres,docker,git,vercel,pytorch,sklearn" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,codepen,css,d3,express,fastapi,flask,git,html,js,latex,mysql,mongodb,nextjs,nodejs,notion,npm,opencv,postgres,postman,prisma,pytorch,react,sklearn,tailwind,tensorflow,threejs,ts,vercel,vite" alt="Tech Stack Core" />
 </p>
 
 ---
