@@ -18,9 +18,11 @@
 
 <div align="center">
 
-<img width="860" src="https://profile-stats-sigma.vercel.app/api/stats?v=1" alt="Coding Activity & GitHub stats" />
+<img width="860" src="https://profile-stats-sigma.vercel.app/api/projects?v=1" alt="Featured Projects" />
 
-<img width="860" src="https://profile-stats-sigma.vercel.app/api/contributions?v=6" alt="Contribution Graph" />
+<img width="860" src="https://profile-stats-sigma.vercel.app/api/stats?v=2" alt="Coding Activity & GitHub stats" />
+
+<img width="860" src="https://profile-stats-sigma.vercel.app/api/contributions?v=7" alt="Contribution Graph" />
 
 </div>
 
