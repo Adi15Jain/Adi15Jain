@@ -1,34 +1,18 @@
 <div align="center">
 
-# Hi, I'm Adi Jain 👋
+<img width="860" alt="Adi Jain — AI / ML engineer. I build AI that makes it to production." src="https://profile-stats-sigma.vercel.app/api/hero?v=1" />
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=3776AB&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%26+AI+Engineer;Building+LLM-powered+%26+RAG+systems;Multi-agent+AI+%C2%B7+Deep+Learning+%C2%B7+ML;Shipping+production-grade+products" alt="Typing SVG" />
-</p>
+<img width="860" alt="Selected work — InterviewPilot, PneumoAI, CoinPush, AlgoPlus" src="https://profile-stats-sigma.vercel.app/api/projects?v=2" />
 
-<a href="https://adijain.click"><img src="https://img.shields.io/badge/Portfolio-adijain.click-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/adi-jain-73334724b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-10b981?style=for-the-badge" alt="Open to Opportunities" />
+<img width="860" alt="Coding activity & GitHub overview" src="https://profile-stats-sigma.vercel.app/api/stats?v=3" />
 
-</div>
-
-> **Full-stack developer and AI engineer from New Delhi.** I build LLM-powered products end-to-end — from RAG pipelines and multi-agent systems to the FastAPI backends and React frontends that serve them.
-
----
-
-<div align="center">
-
-<img width="860" src="https://profile-stats-sigma.vercel.app/api/projects?v=1" alt="Featured Projects" />
-
-<img width="860" src="https://profile-stats-sigma.vercel.app/api/stats?v=2" alt="Coding Activity & GitHub stats" />
-
-<img width="860" src="https://profile-stats-sigma.vercel.app/api/contributions?v=7" alt="Contribution Graph" />
+<img width="860" alt="Contribution graph" src="https://profile-stats-sigma.vercel.app/api/contributions?v=8" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,codepen,css,d3,express,fastapi,flask,git,html,js,latex,mysql,mongodb,nextjs,nodejs,notion,npm,opencv,postgres,postman,prisma,pytorch,react,sklearn,tailwind,tensorflow,threejs,ts,vercel,vite" alt="Tech Stack Core" />
@@ -38,7 +22,7 @@
 
 <div align="center">
 
-## 📬 Let's Connect
+## Let's connect
 
 <a href="https://linkedin.com/in/adi-jain-73334724b" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
