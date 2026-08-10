@@ -2,7 +2,7 @@
 
 <img width="860" alt="Adi Jain — AI / ML engineer. I build AI that makes it to production." src="https://profile-stats-sigma.vercel.app/api/hero?v=2" />
 
-<img width="860" alt="Selected work — InterviewPilot, PneumoAI, CoinPush, AlgoPlus" src="https://profile-stats-sigma.vercel.app/api/projects?v=2" />
+<img width="860" alt="Selected work — InterviewPilot, PneumoAI, CoinPush, AlgoPlus" src="https://profile-stats-sigma.vercel.app/api/projects?v=3" />
 
 <img width="860" alt="Coding activity & GitHub overview" src="https://profile-stats-sigma.vercel.app/api/stats?v=3" />
 
